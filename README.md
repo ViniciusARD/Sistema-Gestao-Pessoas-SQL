@@ -45,7 +45,7 @@ O arquivo `Sistema de Gestão de Pessoas.sql` contém as seguintes operações e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusername/Sistema-Gestao-Pessoas-SQL.git
+   git clone [https://github.com/seuusername/Sistema-Gestao-Pessoas-SQL.git](https://github.com/ViniciusARD/Sistema-Gestao-Pessoas-SQL)
    ```
 
 2. Execute o script SQL em um SGBD de sua preferência (ex: PostgreSQL).
